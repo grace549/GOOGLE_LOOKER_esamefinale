@@ -32,7 +32,7 @@ Sanremo è un’arena in cui convivono **nuove voci e leggende intramontabili**.
 ---
 
 ## 📈 Visualizzazioni
-- **Due grafici interattivi** → per esplorare le partecipazioni degli artisti e la distribuzione delle vittorie nel tempo  
+- **Due grafici interattivi** → per esplorare le partecipazioni degli artisti e la loro distribuzione nel tempo  
 - **Un grafico statico** → con la **Top 10 artisti più presenti a Sanremo per canzoni**  
 
 ---
